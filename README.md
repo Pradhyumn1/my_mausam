@@ -2,40 +2,42 @@
 ## Setup
 ![image](https://github.com/Pradhyumn1/my_mausam/assets/73153956/b0f0f5fc-6637-4f48-bbf2-a699d46521b1)
 
-i am working on this project and make data visualization.
 
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+# My Mausam Project
 
-Available Scripts
-In the project directory, you can run:
+## Overview
+My Mausam is a weather forecast application that provides users with up-to-date weather information. It allows users to check current weather conditions as well as the forecast for the next few days.
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+## Features
+- Current weather display
+- Hourly and 7-day weather forecast
+- Interactive and visually appealing interface
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+## Technologies Used
+- Programming Languages: HTML, CSS, JavaScript
+- Frameworks: React
+- APIs: OpenWeatherMap API
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+## Installation
+1. Clone the repository: `git clone https://github.com/Pradhyumn1/my_mausam.git`
+2. Navigate to the project directory: `cd my_mausam`
+3. Install dependencies: `npm install`
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+1. Run the application: `npm start`
+2. Open your web browser and navigate to: `http://localhost:3000`
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+## API Usage
+This project utilizes the OpenWeatherMap API to fetch weather data based on user input.
 
-See the section about deployment for more information.
+## Contribution
+Contributions are welcome! If you want to contribute to the project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-new-feature`
+3. Make your changes and commit them: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-new-feature`
+5. Create a Pull Request.
 
-npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
 
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
