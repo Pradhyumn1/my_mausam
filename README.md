@@ -25,7 +25,7 @@ My Mausam is a weather forecast application that provides users with up-to-date 
 
 ## Usage
 1. Run the application: `npm start`
-2. Open your web browser and navigate to: `http://localhost:3000`
+2. Open your web browser and navigate to: `https://mycurrentmusam.netlify.app`
 
 ## API Usage
 This project utilizes the OpenWeatherMap API to fetch weather data based on user input.
